@@ -31,7 +31,4 @@ numpy
 scikit-learn  # only used for loading the dataset and train/test split
 ```
 
-## Usage
-```python
-python decision_tree.py
-```
+
